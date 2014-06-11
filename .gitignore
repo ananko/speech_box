@@ -1,0 +1,5 @@
+venv
+*.pyc
+*.wav
+*.mp3
+

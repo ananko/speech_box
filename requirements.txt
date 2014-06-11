@@ -1,0 +1,3 @@
+SpeechRecognition==1.0.3
+gTTS==1.0.2
+requests==2.3.0
